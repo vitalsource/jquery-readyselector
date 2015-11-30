@@ -13,7 +13,7 @@ $('.posts.index').ready(function () {
 
 This works well if you include the controller name and action
 as `<body>` element classes, a la:
- http://postpostmodern.com/instructional/a-body-with-class/
+ http://postpostmodern.com/2009/02/20/a-body-with-class/
 
 The callback will be run once for each matching element, with
 the usual 'this' context for a jQuery callback. `$(fn)`,
